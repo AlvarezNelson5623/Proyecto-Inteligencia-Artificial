@@ -1,4 +1,4 @@
-# Sistema de Predicción de Lluvia
+# Sistema de Predicción de Lluvia ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Texto alternativo](https://github.com/AlvarezNelson5623/Proyecto-Inteligencia-Artificial/blob/main/Banner.png)
 ## Integrantes del Equipo
 
