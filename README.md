@@ -2,13 +2,20 @@
 ![Texto alternativo](https://github.com/AlvarezNelson5623/Proyecto-Inteligencia-Artificial/blob/main/Banner.png)
 ## Integrantes del Equipo
 
-| **Nombre**                 | **Código**         | **Contacto**               |
-|-----------------------------|-----------------------------|------------------------|
+| **Nombre**                   | **Código**         | **Contacto**               |
+|----------------------------- |-----------------------------|------------------------|
 | *Nelosn Ivan Alvarez Suarez* | *2215002*         | *[nelsonalvarez5623@gmail.com](mailto:nelsonalvarez5623@gmail.com)* |
 | *Brayan Yecid Aparicio Goyeneche* | *2205089*      | *[brayanaparicio4@gmail.com](mailto:brayanaparicio4@gmail.com)* |
 ## Objetivo 
 
 Este repositorio contiene el código y la documentación del proyecto de predicción de lluvia. El proyecto tiene como objetivo desarrollar diferentes modelos de clasificación para predecir la ocurrencia de lluvia, basado en variables como la temperatura, humedad, velocidad del viento, entre otros, con el fin de anticipar la cantidad de lluvia total.
+
+## Modelos 
+
+- **Decision Tree:** GridSearchCV, max_depth, criterion, cross_val_score, KFold.
+- **Random Forest:** RandomizedSearchCV, n_estimators, criterion, cross_val_score, KFold.
+- **Support Vector Machine (SVM):** GridSearchCV, kernel, gamma, cross_val_score, KFold.
+- **Genetic Algorithm:** PCA, DecisionTreeRegressor, MSE, optimization, reproduction, mutation.
 
 ## Contenido del Proyecto
 
