@@ -6,9 +6,10 @@
 |----------------------------- |-----------------------------|------------------------|
 | *Nelosn Ivan Alvarez Suarez* | *2215002*         | *[nelsonalvarez5623@gmail.com](mailto:nelsonalvarez5623@gmail.com)* |
 | *Brayan Yecid Aparicio Goyeneche* | *2205089*      | *[brayanaparicio4@gmail.com](mailto:brayanaparicio4@gmail.com)* |
+
 ## Objetivo 
 
-Este repositorio contiene el código y la documentación del proyecto de predicción de lluvia. El proyecto tiene como objetivo desarrollar diferentes modelos de clasificación para predecir la ocurrencia de lluvia, basado en variables como la temperatura, humedad, velocidad del viento, entre otros, con el fin de anticipar la cantidad de lluvia total.
+Predecir la cantidad total de lluvia en un período determinado en función de variables climáticas como la temperatura, humedad, velocidad del viento, presión atmosférica y otros factores ambientales.
 
 ## Modelos 
 
