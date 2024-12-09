@@ -4,8 +4,8 @@
 
 | **Nombre**                 | **Código**         | **Contacto**               |
 |-----------------------------|-----------------------------|------------------------|
-| *Nelosn Ivan Alvarez Suarez* | *2215002*         | [nelsonalvarez5623@gmail.com](nelsonalvarez5623@gmail.com) |
-| *Brayan Yecid Aparicio Goyeneche* | *2205089*      | [brayanaparicio4@gmail.com](brayanaparicio4@gmail.com) |
+| *Nelosn Ivan Alvarez Suarez* | *2215002*         | *[nelsonalvarez5623@gmail.com](nelsonalvarez5623@gmail.com)* |
+| *Brayan Yecid Aparicio Goyeneche* | *2205089*      | *[brayanaparicio4@gmail.com](brayanaparicio4@gmail.com)* |
 ## Objetivo 
 
 Este repositorio contiene el código y la documentación del proyecto de predicción de lluvia. El proyecto tiene como objetivo desarrollar diferentes modelos de clasificación para predecir la ocurrencia de lluvia, basado en variables como la temperatura, humedad, velocidad del viento, entre otros, con el fin de anticipar la cantidad de lluvia total.
