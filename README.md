@@ -20,7 +20,7 @@ Predecir la cantidad total de lluvia en un período determinado en función de v
 
 ## Contenido del Proyecto
 
-- **Diapositivas:** [Ver presentación]()
+- **Diapositivas:** [Ver presentación](https://github.com/AlvarezNelson5623/Proyecto-Inteligencia-Artificial/blob/main/Presentacion%20-%20Prediccion-de-Lluvia-con-Datos-Meteorologicos.pdf)
 - **URL del Dataset:** [Descargar dataset desde Datos Abiertos](https://www.datos.gov.co/dataset/Datos-meteorol-gicos-Aranzazu/nqj3-4xmv/about_data) 
 - **Video en YouTube:** [Ver video en YouTube]()
 - **Repositorio Proyecto:** [Enlace a GitHub](https://github.com/AlvarezNelson5623/Proyecto-Inteligencia-Artificial)
